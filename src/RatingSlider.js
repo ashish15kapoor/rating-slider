@@ -1,37 +1,37 @@
-import React, { Component } from 'react';
-import Slider from 'react-rangeslider';
-import 'react-rangeslider/lib/index.css';
-import './RatingSlider.css'
+import React, { Component } from "react";
+import Slider from "react-rangeslider";
+import "react-rangeslider/lib/index.css";
+import "./RatingSlider.css";
+import { Container, Row, Col } from "react-bootstrap";
 
 class RatingSlider extends Component {
   constructor(props, context) {
-    super(props, context)
+    super(props, context);
     this.state = {
       rating: 0
-    }
+    };
   }
 
-  handleOnChange = (value) => {
+  handleOnChange = value => {
     this.setState({
       rating: value
-    })
-  }
+    });
+  };
 
   render() {
     let { rating } = this.state;
-    const numbers = [0, 1, 2, 3, 4, 5, 6 , 7 , 8 , 9 , 10];
-    const listItems = numbers.map((number) =>
-      <li key={number}>{number}</li>
-    );
+    const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    const listItems = numbers.map(number => <li key={number}>{number}</li>);
     let ratingLabel = String(rating);
     return (
       <div>
-        <ul className="rating_strip">
-          {listItems}
-        </ul>
+        <p className="rating_label">
+          Based on your experience how likely are you to recommend us?
+        </p>
+        <ul className="rating_strip">{listItems}</ul>
         <Slider
           min={numbers[0]}
-          max={numbers[numbers.length -1]}
+          max={numbers[numbers.length - 1]}
           step={1}
           value={rating}
           tooltip={false}
@@ -39,9 +39,19 @@ class RatingSlider extends Component {
           orientation="horizontal"
           onChange={this.handleOnChange}
         />
+        <Container>
+          <Row>
+            <Col className="rating-desc-bad">
+              <p>Very Unlikely</p>
+            </Col>
+            <Col className="rating-desc-good">
+              <p>Very Likely</p>
+            </Col>
+          </Row>
+        </Container>
         <p>Rating : {rating}</p>
       </div>
-    )
+    );
   }
 }
 
