@@ -1,0 +1,303 @@
+{
+  "T-Shirt Dresses": {
+    "Solids": [
+      {
+        "product": "Solids: Black",
+        "product_slug": "solids-black-tshirt-dress",
+        "product_color": "#262432"
+      },
+      {
+        "product": "Solids: Navy Blue",
+        "product_slug": "solids-navy-blue-tshirt-dress",
+        "product_color": "#211f3d"
+      },
+      {
+        "product": "Solids: Brick Red",
+        "product_slug": "solids-brick-red-tshirt-dress",
+        "product_color": "#f24043"
+      },
+      {
+        "product": "Solids: Bottle Green",
+        "product_slug": "solids-bottle-green-tshirt-dress",
+        "product_color": "#1b4a61"
+      },
+      {
+        "product": "Solids: Peach Pink",
+        "product_slug": "solids-peach-pink-tshirt-dress",
+        "product_color": "#f8c9c1"
+      },
+      {
+        "product": "Solids: Charcoal Melange",
+        "product_slug": "solids-charcoal-melange-tshirt-dress",
+        "product_color": "#645f75"
+      },
+      {
+        "product": "Solids: Mint Green",
+        "product_slug": "solids-mint-green-tshirt-dresses",
+        "product_color": "#84e1c9"
+      },
+      {
+        "product": "Solids: Marine Melange",
+        "product_slug": "solids-marine-melange-tshirt-dress",
+        "product_color": "#788ac6"
+      },
+      {
+        "product": "Solids: Wine",
+        "product_slug": "solids-wine-tshirt-dress",
+        "product_color": "#6f2f49"
+      },
+      {
+        "product": "Solids: Hoodie Warmer",
+        "product_slug": "solids-hoodie-warmer-tshirt-dress",
+        "product_color": "#f4434e"
+      },
+      {
+        "product": "Solids: Mustard Yellow",
+        "product_slug": "solids-mustard-yellow-tshirt-dress",
+        "product_color": "#fcc859"
+      },
+      {
+        "product": "Solids: Mint Green (Half Sleeve)",
+        "product_slug": "solids-mint-green-half-sleeve-tshirt-dress",
+        "product_color": "#86e0c9"
+      }
+    ]
+  },
+  "T-Shirts": {
+    "Solids": [
+      {
+        "product": "Solids: Maroon Melange",
+        "product_slug": "solids-maroon-melange-tshirt",
+        "product_color": "#7d3638"
+      },
+      {
+        "product": "Solids: Winter Grey Melange",
+        "product_slug": "solids-winter-grey-melange-tshirt",
+        "product_color": "#d5d5d5"
+      },
+      {
+        "product": "Solids: Brick Red",
+        "product_slug": "solids-brick-red-tshirt",
+        "product_color": "#902728"
+      },
+      {
+        "product": "Solids: Black",
+        "product_slug": "solids-black-tshirt",
+        "product_color": "#1e1f23"
+      },
+      {
+        "product": "Solids: Charcoal Melange",
+        "product_slug": "solids-charcoal-melange-tshirt",
+        "product_color": "#313131"
+      },
+      {
+        "product": "Solids: Navy Blue",
+        "product_slug": "solids-navy-blue-tshirt",
+        "product_color": "#232536"
+      },
+      {
+        "product": "Solids: Purple",
+        "product_slug": "solids-purple-tshirt",
+        "product_color": "#603c7e"
+      },
+      {
+        "product": "Solids: Yellow",
+        "product_slug": "solids-yellow-tshirt",
+        "product_color": "#ddc154"
+      },
+      {
+        "product": "Solids: Navy Blue Melange",
+        "product_slug": "solids-navy-blue-melange-tshirt",
+        "product_color": "#333147"
+      },
+      {
+        "product": "Solids: Arctic Grey",
+        "product_slug": "solids-arctic-grey-tshirt",
+        "product_color": "#b4b5b5"
+      },
+      {
+        "product": "Solids: Coral Red",
+        "product_slug": "solids-coral-red-tshirt",
+        "product_color": "#d6463b"
+      },
+      {
+        "product": "Solids: Ocean Blue",
+        "product_slug": "solids-ocean-blue-tshirt",
+        "product_color": "#137cb6"
+      },
+      {
+        "product": "Solids: Sky Blue",
+        "product_slug": "solids-sky-blue-tshirt",
+        "product_color": "#87c4d4"
+      },
+      {
+        "product": "Solids: Olive Green Melange",
+        "product_slug": "solids-olive-green-melange-tshirt",
+        "product_color": "#505d49"
+      },
+      {
+        "product": "Solids: Denim Melange",
+        "product_slug": "solids-denim-melange-tshirt",
+        "product_color": "#53545f"
+      },
+      {
+        "product": "Solids: White",
+        "product_slug": "solids-white-tshirt",
+        "product_color": "#f4f4f4"
+      },
+      {
+        "product": "Solids: Marine Melange",
+        "product_slug": "solids-marine-melange-tshirt",
+        "product_color": "#3f3f68"
+      },
+      {
+        "product": "Solids: Peach Pink",
+        "product_slug": "solids-peach-pink-tshirt",
+        "product_color": "#dda79c"
+      },
+      {
+        "product": "Solids: Winter White",
+        "product_slug": "solids-winter-white-tshirt",
+        "product_color": "#e8dfc2"
+      },
+      {
+        "product": "Solids: Burgundy",
+        "product_slug": "solids-burgundy-tshirt",
+        "product_color": "#441b24"
+      },
+      {
+        "product": "Solids: Camouflage",
+        "product_slug": "solids-camouflage-tshirt",
+        "product_color": "#122218",
+        "product_color2": "#7b7850"
+      },
+      {
+        "product": "Solids: Granite Melange",
+        "product_slug": "solids-granite-melange-tshirt",
+        "product_color": "#565955"
+      },
+      {
+        "product": "Solids: Black With Camo Sleeves",
+        "product_slug": "solids-black-with-camo-sleeves-tshirt",
+        "product_color": "#1e1f23"
+      },
+      {
+        "product": "Solids: Mint Green",
+        "product_slug": "solids-mint-green-tshirt",
+        "product_color": "#84d6b8"
+      },
+      {
+        "product": "Solids: Lime Green",
+        "product_slug": "solids-lime-green-tshirt",
+        "product_color": "#b4d84d"
+      },
+      {
+        "product": "Solids: Mustard Yellow",
+        "product_slug": "solids-mustard-yellow-tshirt",
+        "product_color": "#d89e2c"
+      },
+      {
+        "product": "Water & Stain Resistant: Solids Yellow",
+        "product_slug": "water-resistant-solids-yellow-tshirt",
+        "product_color": "#eedb6c"
+      },
+      {
+        "product": "Solids: Salmon",
+        "product_slug": "solids-salmon-tshirt",
+        "product_color": "#e9a3ab"
+      },
+      {
+        "product": "Solids: Sage Green",
+        "product_slug": "solids-sage-green-tshirt",
+        "product_color": "#617f81"
+      },
+      {
+        "product": "Solids: Red",
+        "product_slug": "solids-red-tshirt",
+        "product_color": "#861f21"
+      },
+      {
+        "product": "Solids: Green",
+        "product_slug": "solids-green-tshirt",
+        "product_color": "#2d7452"
+      },
+      {
+        "product": "Solids: Slate Grey",
+        "product_slug": "solids-slate-grey-tshirt",
+        "product_color": "#42424e"
+      }
+    ]
+  },
+  "Full Sleeve T-shirts": {
+    "Solids": [
+      {
+        "product": "Solids: Midnight Black",
+        "product_slug": "solids-midnight-black-full-sleeve-tshirt",
+        "product_color": "#242126"
+      },
+      {
+        "product": "Solids: Maroon Melange Raglan",
+        "product_slug": "solids-maroon-melange-raglan-tshirt",
+        "product_color": "#0e1121",
+        "product_color2": "#873e4d"
+      },
+      {
+        "product": "Solids: Bottle Green",
+        "product_slug": "solids-bottle-green-full-sleeve-tshirt",
+        "product_color": "#152e2a"
+      },
+      {
+        "product": "Solids: Mustard Yellow",
+        "product_slug": "solids-mustard-yellow-full-sleeve-tshirt",
+        "product_color": "#fed36f"
+      },
+      {
+        "product": "Solids: Burgundy",
+        "product_slug": "solids-burgundy-full-sleeve-tshirt",
+        "product_color": "#45172e"
+      },
+      {
+        "product": "Solids: Mint Green",
+        "product_slug": "solids-mint-green-full-sleeve-tshirt",
+        "product_color": "#b4f3f1"
+      },
+      {
+        "product": "Solids: Sky Blue",
+        "product_slug": "solids-sky-blue-full-sleeve-tshirt",
+        "product_color": "#729cc0"
+      },
+      {
+        "product": "Solids: Navy Blue",
+        "product_slug": "solids-navy-blue-full-sleeve-tshirt",
+        "product_color": "#1e1e37"
+      },
+      {
+        "product": "Solids: Marine Melange",
+        "product_slug": "solids-marine-melange-full-sleeve-tshirt",
+        "product_color": "#676eb0"
+      },
+      {
+        "product": "Solids: Grey Melange Raglan",
+        "product_slug": "solids-grey-melange-raglan-full-sleeve-tshirt",
+        "product_color": "#08080a",
+        "product_color2": "#aca8a7"
+      },
+      {
+        "product": "Solids: Sage Green Raglan",
+        "product_slug": "solids-sage-green-raglan-full-sleeve-tshirt",
+        "product_color": "#1a1d34",
+        "product_color2": "#7a9490"
+      },
+      {
+        "product": "Solids: Olive Green Melange",
+        "product_slug": "solids-olive-green-melange-full-sleeve-tshirt",
+        "product_color": "#465147"
+      },
+      {
+        "product": "Solids: Bleached Melange Raglan",
+        "product_slug": "solids-bleached-melange-raglan-full-sleeve-tshirt",
+        "product_color": "#adafb3"
+      }
+    ]
+  }
+}
